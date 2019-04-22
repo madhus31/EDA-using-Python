@@ -1,5 +1,5 @@
 # Projects
-# Car Sales
+# EDA - Car Sales
 ![image.png](images/HRTalent.png)
 
 ## INTRODUCTION
