@@ -19,5 +19,4 @@ This is the Car sales data set which include information about different cars . 
 | model                 |  Engine Model                           |
 | Drive                 |  Drive of the car                       |
 
-
-[Jupyter Notebook](EDA-CarSales/project -EDA of Car Sales.ipynb)
+![Jupyter Notebook](EDA-CarSales/project -EDA of Car Sales.ipynb)
