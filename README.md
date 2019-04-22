@@ -21,4 +21,4 @@ This is the Car sales data set which include information about different cars . 
 
 
 
-[Jupyter Notebook](EDA-CarSales/project -EDA of Car Sales.ipynb)
+[Jupyter Notebook](Projects/EDA-CarSales/project -EDA of Car Sales.ipynb)
