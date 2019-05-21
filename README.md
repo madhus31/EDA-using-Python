@@ -26,7 +26,7 @@ This is the Car sales data set which include information about different cars . 
 # EDA - EMPLOYEE ATTRITION
 PEOPLE ANALYTICS WITH ATTRITION PREDICTION
 
-![image.png](EDA-EMPLOYEE ATTRITION/images/HRTalent.png)
+![image.png](EDA-Employee Attrition/images/HRTalent.png)
 
 ## INTRODUCTION
 Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these programs is to __increase the effectiveness__ of their employees. 
