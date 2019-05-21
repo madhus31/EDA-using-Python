@@ -24,7 +24,7 @@ This is the Car sales data set which include information about different cars . 
 
  
 # EDA - EMPLOYEE ATTRITION
-PEOPLE ANALYTICS WITH ATTRITION PREDICTION
+## PEOPLE ANALYTICS WITH ATTRITION PREDICTION
 
 ![image.png](EDA-Employee Attrition/images/HRTalent.png)
 
