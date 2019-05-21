@@ -1,9 +1,9 @@
 # Projects
 # EDA - Car Sales
-![carsales.jpg](EDA-CarSales/image/carsales.jpg)
+![carsales.jpg](image/carsales.jpg)
 
 ## INTRODUCTION
-This is the Car sales data set which include information about different cars . It covers over 9500 car sales data including various type of models, engine type, volume  manufactured by various global automobile organization since 1950’s to 2016.
+This is the Car sales data set which include information about different cars . It covers over 9500 car sales data including various type of models, engine type, volume  manufactured by various global automobile organization since 1950â€™s to 2016.
 
 ## DATA
 | Column Name           |      Description                        |
